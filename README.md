@@ -1,9 +1,9 @@
 
-Title: Escape the sandbox
+***Escape the sandbox***
 
 The challenge consists of exploiting remotely the sandbox process ("geckox-sbx.exe"), and then, escalate privileges from it by exploiting the broker process ("geckox.exe").
 
-*** image1.png ***
+![Image 1](image1.png)
 
 Solution:
 
@@ -13,7 +13,7 @@ It should work on "Windows 10" and/or "Windows 11" with process continuation (pr
 
 Basic Windows skills are necessary, and depending of your level, the solution could take between hours and two days.
 
-*** image2.png ***
+![Image 2](image2.png)
 
 Instructions:
 
